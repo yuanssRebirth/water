@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ys-water-web:war">
+    <output-path>$PROJECT_DIR$/ys-water-web/target</output-path>
+    <root id="archive" name="ys-water-web-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ys-water-web:war exploded" />
+    </root>
+  </artifact>
+</component>

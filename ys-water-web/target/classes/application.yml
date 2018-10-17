@@ -1,0 +1,20 @@
+# 服务端口
+server.port: 8088
+
+#datasource配置
+datasource:
+  driverClassName: com.mysql.cj.jdbc.Driver
+  url: jdbc:mysql://localhost:3306/water?useUnicode=true&characterEncoding=UTF-8&useSSL=false
+  username: root
+  password: 123456
+
+
+spring:
+  freemarker:
+    suffix: .ftl  #后缀名
+    content-type: text/html
+    enabled: true
+    cache: false #缓存配置
+    template-loader-path: classpath:/templates/ #模板加载路径
+    checkTemplateLocation: true
+    charset: UTF-8 #编码格式

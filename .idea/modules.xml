@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ys-water-core/ys-water-core.iml" filepath="$PROJECT_DIR$/ys-water-core/ys-water-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ys-water-query/ys-water-query.iml" filepath="$PROJECT_DIR$/ys-water-query/ys-water-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ys-water-repository/ys-water-repository.iml" filepath="$PROJECT_DIR$/ys-water-repository/ys-water-repository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ys-water-service/ys-water-service.iml" filepath="$PROJECT_DIR$/ys-water-service/ys-water-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ys-water-web/ys-water-web.iml" filepath="$PROJECT_DIR$/ys-water-web/ys-water-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yswater.iml" filepath="$PROJECT_DIR$/yswater.iml" />
+    </modules>
+  </component>
+</project>
